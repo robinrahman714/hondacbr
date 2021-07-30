@@ -1,0 +1,61 @@
+.btn-default {
+  width: 180px;
+  height: 45px;
+  background-color: #e76f51 !important;
+  font-size: large;
+}
+#gray-img {
+  filter: grayscale(100%);
+}
+.clients-name {
+  text-align: center;
+  font-weight: 700;
+
+  color: #23a6f0;
+}
+.clients-post {
+  text-align: center;
+  font-weight: 700;
+}
+.clients-header {
+  text-align: center;
+}
+.clients-img {
+  width: 50%;
+  margin-top: 20%;
+  margin-left: 25%;
+  padding-bottom: 10%;
+}
+#square-img {
+  border-radius: 50%;
+  height: 190px;
+}
+.faq-text {
+  text-align: center;
+}
+.faq-img {
+  width: 120%;
+}
+.f-icons {
+  color: orange;
+}
+.h1-color {
+  color: #e76f51;
+}
+#middle-text {
+  text-align: center;
+  padding-bottom: 5rem;
+  color: #e76f51;
+
+  font-weight: 700;
+}
+footer {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color: black;
+  color: whitesmoke;
+}
